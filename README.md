@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I am Philipp 👋
+
+I am currently enrolled in the Computational Business Analytics Program at Frankfurt School of Finance & Management.
+
+![Profile views](https://gpvc.arturio.dev/[YOUR_PROFILE_USERNAME])
 
 <!--
 **Phill981/Phill981** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
