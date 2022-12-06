@@ -4,7 +4,7 @@ I am currently enrolled in the Computational Business Analytics Program at Frank
 
 ## Socials
 
-- [LinkedIn](https://www.linkedin.com/in/philipp-götz-9a7430211/)
+- [My LinkedIn](https://www.linkedin.com/in/philipp-götz-9a7430211/)
 
 ![Profile views](https://gpvc.arturio.dev/Phill981)
 
