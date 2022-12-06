@@ -2,7 +2,7 @@
 
 I am currently enrolled in the Computational Business Analytics Program at Frankfurt School of Finance & Management.
 
-![Profile views](https://gpvc.arturio.dev/[YOUR_PROFILE_USERNAME])
+![Profile views](https://gpvc.arturio.dev/Phill981)
 
 <!--
 **Phill981/Phill981** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
