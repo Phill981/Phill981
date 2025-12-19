@@ -2,9 +2,9 @@
 
 I am a **CTO in the HealthTech space**, passionate about building scalable software that makes a difference. With a background in Backend Development and Data Analysis, I love bridging the gap between technical details and strategic business goals.
 
-- 🔭 **Currently working on:** Revolutionizing healthcare technology.
-- 🎓 **Education:** B.Sc. in Computational Business Analytics at **Frankfurt School of Finance & Management**.
-- ⚛️ **Interests:** When I'm not coding, you'll find me diving into **Physics**, analyzing **Finance** markets, or exploring new tech stacks.
+- **Currently working on:** Revolutionizing healthcare technology.
+- **Education:** B.Sc. in Computational Business Analytics at **Frankfurt School of Finance & Management**.
+- **Interests:** When I'm not coding, you'll find me diving into **Physics**, analyzing **Finance** markets, or exploring new tech stacks.
 
 ---
 
